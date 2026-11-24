@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+     background-color: darkgreen;
+     height: 50px;
+}
+.nav,ul{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 50px;
+    color: white;
+
+}
+button{
+    width: 90px;
+}
+.con{
+    background-color: rgb(69, 177, 69);
+    height: 300px;
+ 
+
+   
+}
+.con{
+    text-align: center;
+    padding-top: 40px;
+}
+.bt{
+    /* background-color: none; */
+    color: none;
+    margin-top: 20px;
+}
+.child{
+    background-color: white;
+    margin-top: 100px;
+    
+}
+.ph{
+    text-align: justify;
+    display: flex;
+    justify-content: space-between;
+}
+.bgc{
+    background-color: darkgreen;
+    margin-top: 60px;
+    height: 200px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.h2p{
+    /* background-color: white; */
+    width: 200px;
+    margin-top: 20px;
+    margin-left: 20px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.pph{
+    /* background-color: white; */
+    width: 200px;
+    margin-top: 20px;
+    margin-left: 20px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.best,h1{
+    text-align: center;
+    padding-top: 30px;
+    /* background-color: blue; */
+    /* color: white;
+    width: 250px;
+    height: 30px; */
+
+}
+.goob,img{
+    width: 200px;
+    height: 400px;
+    margin-left: 20px;
+    
+}
+.pr{
+    font-size:20px;
+    font-weight: 500;
+}
+.best{
+    display: flex;
+    justify-content: space-around;
+    /* width: 400px; */
+}
+.det{
+    width: 200px;
+    height: 100px;
+    font-size: 10px;
+    margin-top: 60px;
+    
+}
+.det button{
+    background-color: rgb(23, 203, 23);
+    border-radius: 20px;
+    margin-top: 13px;
+    margin-left: 80px;
+    
+}
+.golis,img{
+    height: 200px;
+    border-radius: 19px;
+    margin-top: 19px;
+    
+}
+.goolis{
+    display: flex;
+    justify-content: space-around;
+}
+.dh{
+    margin-right: 1000px;
+    margin-left: 10px;
+}
+.s4{
+    display: flex;
+    justify-content: space-around;
+}
+.footer{
+    background-color: green;
+    margin-top: 40px;
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+}
+.hph{
+    color: white;
+    width: 300px;
+    margin-top: 30px;
+    padding-top: 20px;
+    padding-left: 50px;
+}
